@@ -200,7 +200,7 @@ For an overall gross margin, use the weighted calculation above rather than taki
 
 ---
 
-**Author:** 
+**Author:** Adnan Ahmad Khan
 
 **Project:** Spectrum Aluminium Sales Analytics  
 **Purpose:** Data analytics learning and portfolio demonstration
